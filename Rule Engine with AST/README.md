@@ -1,7 +1,3 @@
-Here's the formatted README with proper alignment:
-
----
-
 # Project Title  
 **Assignment 1 || Rule Engine with AST**
 

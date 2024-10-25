@@ -21,7 +21,7 @@ Develop a simple 3-tier rule engine application (Simple UI, API, Backend, Data) 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/mikhil-10/Rule-Engine.git
    ```
 
 2. **Dependency Installation**

@@ -1,7 +1,3 @@
-Here's the formatted README with proper alignment:
-
----
-
 # Project Title  
 **Assignment 1 || Rule Engine with AST**
 
@@ -183,8 +179,4 @@ Develop a simple 3-tier rule engine application (Simple UI, API, Backend, Data) 
 
 ## Outro
 
-Thank you for using this Rule Engine application! Feel free to contribute or suggest enhancements by submitting issues or pull requests.
-
---- 
-
-This structure maintains clarity and readability. Let me know if you'd like any adjustments!
+Thank you.
